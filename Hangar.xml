@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arena>
+	<name display="Hangar 7">Hangar</name>
+	<description>Software simulations are held in contempt by the veteran instructors who run these training facilities.</description>
+	<version>1.0</version>
+
+	<authors>
+		<author>Legundo</author>
+		<author>McGoogleMac123</author>
+	</authors>
+
+	<contributors>
+		<contributor contribution="Scenery">LukeMilner</contributor>
+		<contributor contribution="Scenery">HeavensxFire</contributor>
+		<contributor contribution="Scenery">_Zemos_</contributor>
+		<contributor contribution="Inspiration">Bungie Studios</contributor>
+	</contributors>
+
+	<world>TMMP-world</world>
+	<players min="2" max="10"/>
+	<zones>
+		<zone type="master" tags="" min="958,42,454" max="1042,62,528">master</zone>
+	</zones>
+</arena>

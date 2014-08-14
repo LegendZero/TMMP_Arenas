@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arena>
+	<name display="Silo">Silo</name>
+	<description>Rain no longer has an effect on this spacecraft, but still mocks its primitive science.</description>
+	<version>1.0</version>
+
+	<authors>
+		<author>LegendZero</author>
+		<author>Neapher</author>
+		<author>Eman10896</author>
+		<author>Sarificus</author>
+	</authors>
+
+	<contributors>
+		<contributor contribution="XML">Neapher</contributor>
+	</contributors>
+
+	<world>TMMP-world</world>
+	<players min="2" max="10"/>
+	<zones>
+		<zone type="master" tags="" min="474,25,-525" max="526,70,-474">master</zone>
+	</zones>
+</arena>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arena>
+	<name display="Outrigger">Outrigger</name>
+	<description>When the didn't find oil, this platform was long abandoned...</description>
+	<version>1.0</version>
+
+	<authors>
+		<author>Legundo</author>
+		<author>McGoogleMac123</author>
+		<author>Queen_Cerri</author>
+		<author>M0xir</author>
+	</authors>
+
+	<contributors>
+		<contributor contribution="XML">GamersConference</contributor>
+	</contributors>
+
+	<world>TMMP-world</world>
+	<players min="2" max="10"/>
+	<zones>
+		<zone type="master" tags="" min="-792,26,-515" max="-723,61,-446">master</zone>
+	</zones>
+</arena>

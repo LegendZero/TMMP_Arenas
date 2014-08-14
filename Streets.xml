@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arena>
+	<name display="Streets">Streets</name>
+	<description>A city in need of order, now a field for chaos.</description>
+	<version>1.0</version>
+
+	<authors>
+		<author>Legundo</author>
+		<author>Axedaso</author>
+		<author>Queen_Cerri</author>
+		<author>M0xir</author>
+	</authors>
+
+	<contributors>
+		<contributor contribution="XML">GamersConference</contributor>
+	</contributors>
+
+	<world>TMMP-world</world>
+	<players min="2" max="10"/>
+	<zones>
+		<zone type="master" tags="" min="-449,15,-559" max="-369,40,-424">master</zone>
+	</zones>
+</arena>

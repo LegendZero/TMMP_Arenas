@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arena>
+	<name display="Arabius">Arabius</name>
+	<description>A sandy tomb for all who enter.</description>
+	<version>1.0</version>
+
+	<authors>
+		<author>Eman10896</author>
+	</authors>
+
+	<contributors>
+		<contributor contribution="XML">GamersConference</contributor>
+	</contributors>
+
+	<world>TMMP-world</world>
+	<players min="2" max="10"/>
+	<zones>
+		<zone type="master" tags="" min="465,25,468" max="540,59,542">master</zone>
+	</zones>
+</arena>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arena>
+	<name display="Waterfall">Waterfall</name>
+	<description>These strange structures have stood here for generations, but no one yet knows why.</description>
+	<version>1.0</version>
+
+	<authors>
+		<author>Legundo</author>
+	</authors>
+
+	<contributors>
+		<contributor contribution="Building">Taklok</contributor>
+		<contributor contribution="Building">Sarificus</contributor>
+		<contributor contribution="Building">GamersConference</contributor>
+		<contributor contribution="XML">GamersConference</contributor>
+	</contributors>
+
+	<world>TMMP-world</world>
+	<players min="2" max="10"/>
+	<zones>
+		<zone type="master" tags="" min="451,45,-84" max="533,68,7">master</zone>
+	</zones>
+</arena>

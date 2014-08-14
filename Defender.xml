@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arena>
+	<name display="Defender">Defender</name>
+	<description>This ancient grotto still holds many secrets.</description>
+	<version>1.0</version>
+
+	<authors>
+		<author>LegendZero</author>
+		<author>GamersConference</author>
+	</authors>
+
+	<contributors>
+		<contributor contribution="XML">GamersConference</contributor>
+	</contributors>
+
+	<world>TMMP-world</world>
+	<players min="2" max="10"/>
+	<zones>
+		<zone type="master" tags="" min="-540,44,465" max="-459,70,533">master</zone>
+	</zones>
+</arena>
